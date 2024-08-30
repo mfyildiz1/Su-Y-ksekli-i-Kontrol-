@@ -1,4 +1,4 @@
-## Su Seviyesi Kontrol
+## Su Seviyesi Kontrol Projesi
 
 Projeyi TOBB Ekonomi ve Teknoloji Üniversitesi öğrencilerinden Muhammet Furkan Yıldız ve Osman Altınsoy ELE 301 Kontrol Dersi Projesi kapsamında yapmıştır.
 
