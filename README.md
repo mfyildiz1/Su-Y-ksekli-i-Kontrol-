@@ -1,4 +1,4 @@
-## Su Seviyesi Kontrol Projesi
+## Referans Bardaktaki Su Seviyesinin Kontrolü Projesi
 
 Projeyi TOBB Ekonomi ve Teknoloji Üniversitesi öğrencilerinden Muhammet Furkan Yıldız ve Osman Altınsoy ELE 301 Kontrol Dersi Projesi kapsamında yapmıştır.
 
